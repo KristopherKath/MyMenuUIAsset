@@ -1,0 +1,16 @@
+This package was made by Kristopher Kath.
+
+Features:
+ - Premade Scene with a Menu page, Options page, and Inventory page.
+ - Asset works with the new Unity Input System (v1.1.1).
+ - Menu page provides a play button, options page button, and quit button.
+ - Menu page buttons are fully functional with use of "MainMenu.cs" Script.
+ - Options page has functionality for game Volume, Fullscreen, Resolutions options, Quality, and rebinding of keys.
+ - Options/Settings can be applied with the "SettingsMenu.cs" Script.
+ - Rebinding of keys can be done with "RebindKeyObject.cs" Script.
+ - A Rebinding key prefab is also provided for use.
+ - Inventory Group GameObject demonstrates use of the following scripts: "TabGroup.cs", "TabButton.cs", "FlexibleGridLayout.cs".
+ - 
+
+-todo: Make variable hidden using UnityEditor and handle this for when game is built. 
+https://stackoverflow.com/questions/30881130/how-to-gray-options-in-the-inspector
